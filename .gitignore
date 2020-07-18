@@ -23,5 +23,3 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
-[core]
-    excludesfile = ~/.gitignore
