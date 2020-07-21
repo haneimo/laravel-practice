@@ -1,0 +1,23 @@
+Laravel development server started: http://127.0.0.1:8000
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8001
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8002
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8003
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8003 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8004
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8004 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8005
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8005 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8006
+[Sun Jul 19 21:48:55 2020] Failed to listen on 127.0.0.1:8006 (reason: Address already in use)
+Laravel development server started: http://127.0.0.1:8007
+[Sun Jul 19 21:48:55 2020] PHP 7.4.8 Development Server (http://127.0.0.1:8007) started
+Terminated
+Laravel development server started: http://127.0.0.1:8008
+[Sun Jul 19 21:50:31 2020] PHP 7.4.8 Development Server (http://127.0.0.1:8008) started
+Terminated
+Laravel development server started: http://127.0.0.1:8009
+[Sun Jul 19 21:50:42 2020] PHP 7.4.8 Development Server (http://127.0.0.1:8009) started
+Terminated
